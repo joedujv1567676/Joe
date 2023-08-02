@@ -1,3 +1,5 @@
+import './class.css'
+
 export default function Moon() {
     return (
         <main>
