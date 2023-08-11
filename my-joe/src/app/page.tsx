@@ -1,5 +1,4 @@
 import Link from "next/link"
-import './class.css'
 import { ArrowBigRight } from 'lucide-react';
 
 export default function Home() {
@@ -16,12 +15,12 @@ export default function Home() {
       />
       </picture>
       <div className=" fixed top-[0vw] left-[1vw] flex">
-        <p className=" text-[3vw]">𝔍𝔬𝔢</p>
+        <p className=" text-[3vw] text-violet-400">𝔍𝔬𝔢</p>
         </div>
         <div className="absolute top-[13vw] left-[35vw]">
-          <p className="text-[10vw]">ɪɴɪᴄɪᴏ</p>
-          <div className="border-violet-300 border-2 rounded-[12px]">
-          <Link href="/Sites" className=" justify-center flex ">My projects<button><ArrowBigRight /></button></Link>
+          <p className="text-[10vw] text-violet-400">ɪɴɪᴄɪᴏ</p>
+          <div className="border-violet-400 border-2 rounded-[12px]">
+          <Link href="/Sites" className=" justify-center flex text-violet-400">My projects<button><ArrowBigRight /></button></Link>
           </div>
         </div>
       </main>

@@ -7,9 +7,9 @@ export default function Sites() {
         className=" w-full"
         src="https://i.pinimg.com/originals/da/8d/d2/da8dd2f073a7588ec42251eb421f4799.gif" 
         alt="https://br.pinterest.com/pin/49328558410640724/" />
-        <div className=" absolute top-[10vw] left-[33.5vw]">
-        <p className=" text-[6vw]">𝑴𝒆𝒖𝒔 𝑺𝒊𝒕𝒆𝒔</p>
-        <p className=" text-center text-[1.5vw]">𝙘𝙡𝙞𝙦𝙪𝙚 𝙣𝙤 𝙜𝙞𝙛</p>
+        <div className=" absolute top-[7vw] left-[33.5vw]">
+        <p className=" text-[6vw] text-blue-700">𝑴𝒆𝒖𝒔 𝑺𝒊𝒕𝒆𝒔</p>
+        <p className=" text-center text-[2vw] text-blue-700">𝙘𝙡𝙞𝙦𝙪𝙚 𝙣𝙤 𝙜𝙞𝙛</p>
         </div>
         <div className="group">
             <a href="/Sites/Catpage">
